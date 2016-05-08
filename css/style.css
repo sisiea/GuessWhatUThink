@@ -4,7 +4,7 @@
 }
 #container{
 /*	background-color: red;*/
-	width: 90%;
+	width: 70%;
 	margin:0 auto;
 	display: -webkit-flex; /* Safari */
   	display: flex;
