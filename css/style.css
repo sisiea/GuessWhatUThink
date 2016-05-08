@@ -4,7 +4,7 @@
 }
 #container{
 /*	background-color: red;*/
-	width: 70%;
+	width: 90%;
 	margin:0 auto;
 	display: -webkit-flex; /* Safari */
   	display: flex;
@@ -80,7 +80,7 @@
 	margin-right: 15px;
 }
 #pic-zone img{
-	height: 75px;
+	width: 90px;
 	flex:1;
 	border: 1px solid gray;
 	border-radius: 10px;
